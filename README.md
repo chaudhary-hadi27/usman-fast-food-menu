@@ -54,7 +54,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/usman-fast-food/usman-fastfood-menu.git
+git clone https://github.com/chaudhary-hadi27/usman-fast-food-menu.git
 cd usman-fastfood-menu
 ```
 
